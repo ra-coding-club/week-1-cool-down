@@ -36,31 +36,31 @@ Example Question: HTML (Hypertext Markup Language) is not a programming language
 Type your answers here:
 
 Example Answer: *markup language*
- 
-1. 
 
-2. 
+1. False
 
-3. 
+2. (1) The opening tag, (2) the closing tag, (3) the content, and (4) the element.
 
-4. 
+3. Nesting
 
-5. 
+4. Block-level elements form a visible block on a page — they will appear on a new line from whatever content went before it, and any content that goes after it will also appear on a new line. Block-level elements tend to be structural elements on the page that represent, for example, paragraphs, lists, navigation menus, footers, etc. A block-level element wouldn't be nested inside an inline element, but it might be nested inside another block-level element. Inline elements are those that are contained within block-level elements and surround only small parts of the document’s content, not entire paragraphs and groupings of content. An inline element will not cause a new line to appear in the document; they would normally appear inside a paragraph of text, for example an `<a>` element (hyperlink) or emphasis elements such as `<em>` or `<strong>`.
 
-6. 
+5. The `<img>` element
 
-7. 
+6. Attributes
 
-8. 
+7. When you look around the World Wide Web, you'll come across all kind of strange markup styles, including attribute values without quotes. This is allowable in certain circumstances, but will break your markup in others.
 
-9. 
+8. Can
 
-10. 
+9. (1) The doctype, (2) the `<html>` element, (3) the `<head>` element, (4) `<meta charset="utf-8">`, (5) the `<title>` element, and (6) the `<body>` element.
 
-11. 
+10. Readability
 
-12. 
+11. Character references
 
-13. 
+12. `<!--<p>Please comment this element out.</p>-->`
+
+13. False
 
 **Copyright &copy; 2018 Riyaad Azad. Free to copy and distribute as per the [official license on GitHub](https://github.com/ra-coding-club/coding-club/blob/master/LICENSE). All other rights reserved.** 
